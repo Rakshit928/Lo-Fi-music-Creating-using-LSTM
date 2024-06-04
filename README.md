@@ -49,4 +49,8 @@ Additional Considerations:
 
 Experiment with different LSTM layer configurations and hyperparameters (number of layers, units per layer) to find the best fit for your dataset and desired musical style.
 Explore incorporating additional information like drum patterns or chord progressions into the model for richer generation.
+
+
+
+
 <img src="image.png" style="border: 1px solid black" />
